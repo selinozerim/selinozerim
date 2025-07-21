@@ -7,8 +7,8 @@ Front-End Developer
 I'm computer programming student. I've been into coding for 2 years and trying my best to being a front-end developer. Whenever I code, I understand that I choose the right job for myself. Yes, I still have fun even all this suffer.
 
 * 🌍  I'm based in Turkey
-* 🧠  I'm learning JavaScript, React, PHP, C#, C++
-* ⚡  I'm also interested in networking and automation
+* 🧠  I'm learning JavaScript, React, Python and AI supported applications
+* ⚡  I'm also interested in AI development
 
 ### Skills
 
