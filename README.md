@@ -8,7 +8,7 @@ Graduated from Computer Programming, had few experiences with design web sites(w
 
 * 🌍  I'm based in Turkey
 * 🧠  I'm learning JavaScript, React, Python and AI supported applications
-* ⚡  I'm also interested in AI development
+* ⚡  I'm interested in AI development
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
